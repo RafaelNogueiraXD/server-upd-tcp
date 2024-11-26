@@ -1,0 +1,2 @@
+Test Type,Total Time,Requests/s,Avg Response Time,Total Requests,Successful,Failed,Use Session,Print Output,Write File,Timestamp
+No Session,3.84,2605.98,0.0003,10000,0,10000,False,True,False,2024-11-26T02:19:09.137001

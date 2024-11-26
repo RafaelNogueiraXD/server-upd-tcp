@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "udp-client"
+version = "0.1.0"
+description = ""
+authors = ["RafalNogueiraXD <rafa10_nogueira@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+taskipy = "^1.14.0"
+python-dotenv = "^1.0.1"
+pytest = "^8.3.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
